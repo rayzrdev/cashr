@@ -1,0 +1,12 @@
+{
+  "name": "cashr",
+  "version": "0.0.1",
+  "description": "A configurable in-memory storage system",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": "https://github.com/Rayzr522/cashr",
+  "author": "Rayzr",
+  "license": "MIT"
+}

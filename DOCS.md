@@ -39,6 +39,7 @@
         * [.entries](#Cashr+entries) : [<code>Array.&lt;CacheEntry&gt;</code>](#CacheEntry)
         * [.set(key, value, [options])](#Cashr+set)
         * [.delete(key)](#Cashr+delete) ⇒
+        * [.has(key)](#Cashr+has) ⇒ <code>boolean</code>
         * [.clear()](#Cashr+clear)
         * [._cancelTimeout(key)](#Cashr+_cancelTimeout) ⇒ <code>boolean</code>
         * [._startTimeout(key)](#Cashr+_startTimeout)
@@ -120,6 +121,18 @@ Deletes the value at the given key
 | Param | Type | Description |
 | --- | --- | --- |
 | key | <code>string</code> | The key of the property to delete |
+
+<a name="Cashr+has"></a>
+
+### cashr.has(key) ⇒ <code>boolean</code>
+Checks the cache if a value with the given key exists
+
+**Kind**: instance method of [<code>Cashr</code>](#Cashr)  
+**Returns**: <code>boolean</code> - Whether or not there is a stored value at the given key  
+
+| Param | Type | Description |
+| --- | --- | --- |
+| key | <code>string</code> | The key to check |
 
 <a name="Cashr+clear"></a>
 

@@ -12,4 +12,4 @@
 > The docs are also provided as JSDocs in the code itself. I personally find *that* much more readable.
 
 ## Join Me
-[![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://discord.io/rayzrdevofficial)
+[![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://discord.gg/HRfGECW)
